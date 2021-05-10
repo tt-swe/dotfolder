@@ -1,0 +1,21 @@
+" general settings
+set nocompatible    " disable compatibility with vi
+
+" graphical settings
+set number          " show line numbers
+set noruler         " do not show current position
+set wrap linebreak  " wrap line at word
+syntax enable       " enable syntax highlighting
+
+" space/tab settings
+set autoindent      " copy indentation from previous line
+set smartindent     " auto indentation for c-like files
+set smarttab        " use tab for indentation, space for alignment
+set shiftwidth=2    " number of spaces for auto indentation
+set softtabstop=2   " number of spaces for tab keypress
+
+" search settings
+set hlsearch        " highlight search results
+set ignorecase      " ignore case when searching
+set smartcase       " tolerate uppercase in search string
+set incsearch       " incrementally search as letter is typed

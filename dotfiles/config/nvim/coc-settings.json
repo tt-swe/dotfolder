@@ -1,0 +1,12 @@
+{
+  "python.pythonPath": "python3",
+  "coc.preferences.formatOnSaveFiletypes": [
+    "html",
+    "css",
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact",
+    "json"
+  ]
+}

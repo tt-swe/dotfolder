@@ -1,0 +1,14 @@
+[user]
+        name =
+        email =
+[core]
+        editor = nvim
+        autocrlf = input
+        quotepath = false
+        ignorecase = false
+[merge]
+        conflictStyle = diff3
+[push]
+        default = nothing
+[pull]
+        ff = only
