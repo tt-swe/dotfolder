@@ -6,6 +6,8 @@
 
 Clone this repository to your home directory.
 
+Copy profile\_template to your home directory as .profile. (~/dotfolder/dotfiles/profile\_template)
+
 - Set environment variables GIT\_USER\_NAME and GIT\_USER\_EMAIL.
 - Set correct path to git prompt script. (~/dotfolder/scripts/install\_git/install\_git.sh)
 - Set correct path to fzf keybindings script. (~/dotfolder/dotfiles/bashrc)
