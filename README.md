@@ -27,7 +27,7 @@ sudo ~/dotfolder/scripts/install.sh
 
 ### After executing install.sh
 
-Execute :PlugInstall in neovim.
+Execute `:PlugInstall` in neovim.
 
 ### Optional
 
