@@ -29,3 +29,13 @@ alias nv='nvim'
 
 # aliases for python
 alias python='python3'
+
+# aliases for docker
+alias dstt='sudo service docker start'
+alias dstp='sudo service docker stop'
+alias dcnt='docker container'
+alias dimg='docker image'
+alias dvlm='docker volume'
+alias dntw='docker network'
+alias dcmpup='docker-compose up -d'
+alias dcmpdn='docker-compose down'
