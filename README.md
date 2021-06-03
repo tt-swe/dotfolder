@@ -1,5 +1,11 @@
 # dotfolder
 
+## Target Environments
+
+- Ubuntu 20.04 on WSL2
+
+Most part should also work on normal Ubuntu 20.04.
+
 ## Installation Steps
 
 ### Pre-Installation
