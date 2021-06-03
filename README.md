@@ -16,13 +16,13 @@ git clone https://github.com/tt-swe/dotfolder.git
 ```
 
 Copy profile\_template to your home directory as .profile.
-And set environment variables GIT\_USER\_NAME and GIT\_USER\_EMAIL in .profile.
 ```
 cp ~/dotfolder/dotfiles/profile_template ~/.profile
 ```
 
-- Set correct path to git prompt script. (~/dotfolder/scripts/install\_git/install\_git.sh)
-- Set correct path to fzf keybindings script. (~/dotfolder/dotfiles/bashrc)
+- Set environment variables GIT\_USER\_NAME and GIT\_USER\_EMAIL in `~/.profile`.
+- Set correct path to git prompt script in `~/dotfolder/scripts/install_git/install_git.sh`.
+- Set correct path to fzf keybindings script in `~/dotfolder/dotfiles/bashrc`.
 
 ### Installation
 
