@@ -22,7 +22,7 @@ HISTSIZE=1000
 HISTFILESIZE=2000
 
 # ignore certain commands
-HISTIGNORE="clear:exit:history:cat*:less*"
+HISTIGNORE="clear:exit:history:cat*:bat*:less*"
 
 # check the window size after each command and, if necessary,
 # update the values of LINES and COLUMNS.
