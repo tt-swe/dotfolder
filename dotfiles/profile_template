@@ -50,3 +50,6 @@ export FZF_DEFAULT_OPTS="
 --bind 'alt-k:preview-up'
 --bind 'ctrl-a:select-all'
 "
+
+# wsl specific environment variables
+export WIN_IP=`netsh.exe interface ip show addresses 'Wi-Fi' | grep IP | awk '{print $3}'`
